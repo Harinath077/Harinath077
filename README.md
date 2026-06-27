@@ -16,7 +16,7 @@ Backend Software Engineer specializing in designing scalable, reliable, and high
 
 ---
 
-# ⚡ Current Builds
+# Current Builds
 
 **Distributed URL Shortener** — Production-grade URL shortening service with authentication, caching, rate limiting, and secure API design
 Java, Spring Boot, PostgreSQL, Redis, Docker, Spring Security, JWT — [github.com/Harinath077/URL-Shortener](https://github.com/Harinath077/URL-Shortener)
@@ -45,7 +45,7 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# 🏗️ Architecture & Systems
+# Architecture & Systems
 
 * **Distributed Systems** — Design for high availability, fault tolerance, and consensus.
 * **Microservices** — Designing clear service boundaries and robust communication patterns.
@@ -55,7 +55,7 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# 🧠 What I'm Learning
+# What I'm Learning
 
 * **Advanced Systems** — Diving into consensus protocols, replication, and partitioning.
 * **Cloud-Native Dev** — Containerization, orchestration, and service meshes.
@@ -65,7 +65,7 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# 🤝 Open Source
+# Open Source Contribution
 
 * **Spring Boot** — Contributing to starter libraries and framework ecosystem.
 * **Developer Tools** — Developing CLI automation and helper workflows.
@@ -89,7 +89,7 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# Let's Build Something Scalable 🚀
+# Let's Build Something Scalable 
 
 I'm here to work on real engineering problems. Open an issue, start a discussion, or send a PR.
 
