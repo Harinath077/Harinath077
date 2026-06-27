@@ -57,50 +57,31 @@ Distributed Systems, System Design, Scalability
 
 # 🏗️ Architecture & Systems
 
-![Microservices](https://img.shields.io/badge/Microservices-24292e?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-24292e?style=flat-square) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-24292e?style=flat-square) ![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-24292e?style=flat-square) ![API Gateway](https://img.shields.io/badge/API_Gateway-24292e?style=flat-square) ![Circuit Breaker Pattern](https://img.shields.io/badge/Circuit_Breaker_Pattern-24292e?style=flat-square) ![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-24292e?style=flat-square) ![RESTful Design](https://img.shields.io/badge/RESTful_Design-24292e?style=flat-square)
+* **Distributed Systems** — Design for high availability, fault tolerance, and consensus.
+* **Microservices** — Designing clear service boundaries and robust communication patterns.
+* **Event-Driven Architectures** — Utilizing asynchronous messaging and Saga orchestration.
+* **API Gateway & Routing** — Traffic management, security, and rate limiting.
+* **Clean Architecture** — Building testable, maintainable, and decoupled systems.
 
 ---
 
-## Engineering Interests
+# 🧠 What I'm Learning
 
-* Distributed Systems
-* Backend Architecture
-* High Performance APIs
-* Caching Strategies
-* Event-Driven Systems
-* System Design
-* Scalability
-* Performance Optimization
+* **Advanced Systems** — Diving into consensus protocols, replication, and partitioning.
+* **Cloud-Native Dev** — Containerization, orchestration, and service meshes.
+* **Performance Tuning** — Latency optimization, profiling, and caching strategies.
+* **Backend Security** — Robust cryptography, OAuth2 protocols, and secure storage.
+* **Open Source Contribution** — Developing community-centric, maintainable software.
 
 ---
 
+# 🤝 Open Source
 
-
-# What I'm Learning
-
-* Advanced System Design
-* Scalability Patterns
-* Distributed Systems
-* Cloud-Native Development
-* Performance Optimization
-* Backend Security
-* Open Source Contribution
-
----
-
-# Open Source
-
-I believe one of the best ways to grow as an engineer is by contributing to open source.
-
-I'm actively looking for beginner and intermediate issues in:
-
-* Spring Boot
-* Java Libraries
-* Backend Frameworks
-* Developer Tools
-* Distributed Systems
-* DevOps Tooling
-* API Infrastructure
+* **Spring Boot** — Contributing to starter libraries and framework ecosystem.
+* **Developer Tools** — Developing CLI automation and helper workflows.
+* **API Infrastructure** — Building request routers and gateway utilities.
+* **Distributed Tools** — Contributing to caching drivers and persistence adapters.
+* **DevOps Tooling** — Streamlining pipeline automation and container builds.
 
 ---
 
