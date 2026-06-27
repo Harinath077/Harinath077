@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Harinath%20E&font=Poppins&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20Software%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=20&descAlignY=58&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Harinath%20E&font=Poppins&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Backend%20Engineer%20%7C%20Open%20Source%20Contributor&descSize=20&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4A9EFF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;Building+Reliable+%26+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;System+Design+%7C+Microservices;Open+to+Backend+Engineering+Opportunities)](https://git.io/typing-svg)
 
@@ -12,11 +12,7 @@
 
 Backend Software Engineer specializing in designing scalable, reliable, and high-performance distributed architectures with Java and Spring Boot. Actively open to backend engineering roles and open-source collaboration.
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harinath077) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinath-e) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamharinath.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harinath077/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Harinath077)
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harinath077) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinath-e) [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamharinath.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harinath_E07/) [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/programmerharinath) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@harinathcreationz)
 
 ---
 
