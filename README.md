@@ -55,16 +55,9 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# Architecture & Systems
+# 🏗️ Architecture & Systems
 
-* Microservices
-* Distributed Systems
-* Event-Driven Architecture
-* Saga Pattern
-* API Gateway
-* Circuit Breaker Pattern
-* Layered Architecture
-* RESTful Design
+![Microservices](https://img.shields.io/badge/Microservices-24292e?style=flat-square) ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-24292e?style=flat-square) ![Event-Driven Architecture](https://img.shields.io/badge/Event--Driven_Architecture-24292e?style=flat-square) ![Saga Pattern](https://img.shields.io/badge/Saga_Pattern-24292e?style=flat-square) ![API Gateway](https://img.shields.io/badge/API_Gateway-24292e?style=flat-square) ![Circuit Breaker Pattern](https://img.shields.io/badge/Circuit_Breaker_Pattern-24292e?style=flat-square) ![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-24292e?style=flat-square) ![RESTful Design](https://img.shields.io/badge/RESTful_Design-24292e?style=flat-square)
 
 ---
 
