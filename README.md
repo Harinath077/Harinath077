@@ -26,35 +26,32 @@ I enjoy solving engineering problems by designing maintainable software, buildin
 
 ---
 
-# Currently Building
+# ⚡ Current Builds
 
-🚀 Production-grade Distributed URL Shortener
+**Distributed URL Shortener** — Production-grade URL shortening service with authentication, caching, rate limiting, and secure API design
+Java, Spring Boot, PostgreSQL, Redis, Docker, Spring Security, JWT — [github.com/Harinath077/URL-Shortener](https://github.com/Harinath077/URL-Shortener)
 
-🚀 Event-Driven E-Commerce Backend
+**Event-Driven E-Commerce Backend** — Production-style microservices application implementing distributed transactions using the Saga Pattern
+Spring Boot, PostgreSQL, Redis, Docker, REST APIs, JWT — [github.com/Harinath077/ecommerce-system](https://github.com/Harinath077/ecommerce-system)
 
-📚 Advanced System Design Projects
+**Advanced System Design Projects** — Exploring consensus, replication, caching strategies, and scalability patterns
+Distributed Systems, System Design, Scalability
 
 ---
 
 # Skills
 
 ### Backend:
-![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Databases & Caching:
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Networking:
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![CI/CD](https://img.shields.io/badge/CI%2FCD-317873?style=for-the-badge&logo=github-actions&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1D809F?style=for-the-badge&logo=cisco&logoColor=white)
+### DevOps & Tools:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Data & ML:
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Embedded/IoT:
-![ROS2](https://img.shields.io/badge/ros2-%230A0B0B.svg?style=for-the-badge&logo=ros&logoColor=white) ![Arduino](https://img.shields.io/badge/arduino-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Web:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Frontend:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -84,89 +81,7 @@ I enjoy solving engineering problems by designing maintainable software, buildin
 
 ---
 
-# Featured Projects
 
-## 🔗 Distributed URL Shortener
-
-> Production-grade URL shortening service with authentication, caching, analytics, and secure API design.
-
-### Highlights
-
-* JWT Authentication
-* Redis Caching
-* Click Analytics
-* Rate Limiting
-* Custom Short URLs
-* Dockerized Deployment
-* Global Exception Handling
-* Validation
-* Production-ready Layered Architecture
-
-### Architecture
-
-```text
-Client
-   │
-REST API
-   │
-Spring Boot
-   │
-──────────────
-│            │
-Redis    PostgreSQL
-```
-
-### Tech
-
-`Java` • `Spring Boot` • `PostgreSQL` • `Redis` • `Docker` • `Spring Security` • `JWT`
-
-**Repository**
-
-https://github.com/Harinath077/URL-Shortener
-
----
-
-## 🛒 Event-Driven E-Commerce Backend
-
-> Production-style microservices application implementing distributed transactions using the Saga Pattern.
-
-### Highlights
-
-* Microservices Architecture
-* Event-Driven Communication
-* Saga Pattern
-* Distributed Transactions
-* Inventory Reservation
-* Payment Compensation
-* Redis Caching
-* API Gateway
-* Service Discovery
-* Dockerized Deployment
-
-### Architecture
-
-```text
-              Client
-                 │
-           API Gateway
-                 │
- ┌──────────┬──────────┬──────────┐
- │          │          │
-Order    Inventory   Payment
-Service    Service    Service
- │          │          │
- PostgreSQL Redis PostgreSQL
-```
-
-### Tech
-
-`Spring Boot` • `PostgreSQL` • `Redis` • `Docker` • `REST APIs` • `JWT`
-
-**Repository**
-
-https://github.com/Harinath077/ecommerce-system
-
----
 
 # What I'm Learning
 
