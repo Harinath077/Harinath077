@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Harinath%20E&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=18&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=20\&pause=1200\&color=4A9EFF\&center=true\&vCenter=true\&width=700\&lines=Backend+Engineer+%7C+Java+%7C+Spring+Boot;Distributedgit+Systems+%26+Microservices;Building+Scalable+Production-Ready+Backends;System+Design+%7C+Redis+%7C+Docker;Open+Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4A9EFF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;Building+Reliable+%26+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;System+Design+%7C+Microservices;Open+to+Backend+Engineering+Opportunities)](https://git.io/typing-svg)
 
 </div>
 
