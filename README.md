@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Harinath%20E&font=Sora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=18&descAlignY=58&descColor=a0c4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Harinath%20E&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20Software%20Engineer&descSize=18&descAlignY=58&descColor=a0c4ff" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=4A9EFF&center=true&vCenter=true&width=750&lines=Backend+Software+Engineer;Building+Reliable+%26+Scalable+Backend+Systems;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+Redis;System+Design+%7C+Microservices;Open+to+Backend+Engineering+Opportunities)](https://git.io/typing-svg)
 
@@ -83,19 +83,11 @@ Distributed Systems, System Design, Scalability
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harinath077&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Harinath077&theme=tokyonight&hide_border=true"/>
 
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinath077&theme=tokyo-night"/>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Harinath077&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
