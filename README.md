@@ -4,10 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=20\&pause=1200\&color=4A9EFF\&center=true\&vCenter=true\&width=700\&lines=Backend+Engineer+%7C+Java+%7C+Spring+Boot;Distributedgit+Systems+%26+Microservices;Building+Scalable+Production-Ready+Backends;System+Design+%7C+Redis+%7C+Docker;Open+Source+Enthusiast)](https://git.io/typing-svg)
 
-# Hi, I'm Harinath 👋
-
-**Backend Software Engineer** passionate about designing scalable, reliable, and production-ready backend systems using Java and Spring Boot.
-
 </div>
 
 ---
@@ -16,6 +12,11 @@
 
 Backend Software Engineer specializing in designing scalable, reliable, and high-performance distributed architectures with Java and Spring Boot. Actively open to backend engineering roles and open-source collaboration.
 
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harinath077) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinath-e) [![Email](https://img.shields.io/badge/Email-iamharinath.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamharinath.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harinath077/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Harinath077)
+
+</div>
 
 ---
 
@@ -100,13 +101,17 @@ Distributed Systems, System Design, Scalability
 
 ---
 
-# Connect With Me
+# Let's Build Something Scalable 🚀
 
-<div align="center">
+I'm here to work on real engineering problems. Open an issue, start a discussion, or send a PR.
 
-[![GitHub](https://img.shields.io/badge/GITHUB-HARINATH077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harinath077) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-HARINATH%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinath-e) [![Email](https://img.shields.io/badge/EMAIL-iamharinath.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamharinath.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LEETCODE-Harinath077-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harinath077/) [![Medium](https://img.shields.io/badge/MEDIUM-Harinath077-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Harinath077)
+**Ways to collaborate:**
+* **System Design & Architecture** — Let's whiteboard scalability patterns.
+* **Open Source Projects** — Open to contributing to backend tools & frameworks.
+* **Performance Tuning** — Always down to identify and optimize latency bottlenecks.
+* **Technical Discussions** — Shoot over any questions or ideas.
 
-</div>
+Let's build something impactful together.
 
 ---
 
