@@ -14,15 +14,8 @@
 
 # About Me
 
-I'm a backend-focused software engineer with a strong interest in **distributed systems**, **system design**, and **high-performance backend architectures**.
+Backend Software Engineer specializing in designing scalable, reliable, and high-performance distributed architectures with Java and Spring Boot. Actively open to backend engineering roles and open-source collaboration.
 
-I enjoy solving engineering problems by designing maintainable software, building scalable REST APIs, optimizing application performance, and implementing production-grade backend architectures.
-
-* 🎓 B.E. Computer Science & Engineering (IoT)
-* 🏫 Sri Sai Ram Engineering College, Chennai
-* 💻 Backend Engineering • Distributed Systems • System Design
-* 🌱 Currently learning Advanced System Design & Backend Performance
-* 🤝 Open to Backend Engineering and Open Source Collaboration
 
 ---
 
@@ -91,8 +84,6 @@ Distributed Systems, System Design, Scalability
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harinath077&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinath077&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Harinath077&theme=tokyonight&hide_border=true"/>
@@ -113,11 +104,7 @@ Distributed Systems, System Design, Scalability
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Harinath077-181717?style=for-the-badge\&logo=github)](https://github.com/Harinath077)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harinath%20E-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/harinath-e)
-
-[![Email](https://img.shields.io/badge/Email-iamharinath.dev%40gmail.com-EA4335?style=for-the-badge\&logo=gmail)](mailto:iamharinath.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-HARINATH077-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harinath077) [![LinkedIn](https://img.shields.io/badge/LINKEDIN-HARINATH%20E-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harinath-e) [![Email](https://img.shields.io/badge/EMAIL-iamharinath.dev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iamharinath.dev@gmail.com) [![LeetCode](https://img.shields.io/badge/LEETCODE-Harinath077-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Harinath077/) [![Medium](https://img.shields.io/badge/MEDIUM-Harinath077-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@Harinath077)
 
 </div>
 
